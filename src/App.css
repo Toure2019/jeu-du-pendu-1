@@ -1,4 +1,22 @@
-.App {
+
+.game {
+  background-color: yellow;
+  height: 80%;
+  width: 80%;
+  color: blue;
+}
+td {
+  font: normal bold 17px Tahoma;
+  padding: 8px; 
+  background-color: chocolate;
+}
+
+button {
+  background-color:#52faa6;
+  font: normal bold 15px Tahoma;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -30,4 +48,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
